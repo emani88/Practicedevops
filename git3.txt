@@ -1,3 +1,6 @@
 branching example
 
 modified in branch1 not in master!!!
+
+
+added with only commit
